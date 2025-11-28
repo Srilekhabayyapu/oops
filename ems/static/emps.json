@@ -1,0 +1,10 @@
+{
+    "employees": [
+        {
+            "csrfmiddlewaretoken": "dxoXXJ7IzVfcE2leRKwMPQ9QTdEgmrkhDTh93UdqewdqO5zwxIW9Nwau3eFGM75e",
+            "name": "pavani",
+            "dept": "trainer",
+            "email": "pavani@123"
+        }
+    ]
+}
