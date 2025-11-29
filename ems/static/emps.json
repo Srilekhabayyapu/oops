@@ -1,10 +1,1 @@
-{
-    "employees": [
-        {
-            "csrfmiddlewaretoken": "dxoXXJ7IzVfcE2leRKwMPQ9QTdEgmrkhDTh93UdqewdqO5zwxIW9Nwau3eFGM75e",
-            "name": "pavani",
-            "dept": "trainer",
-            "email": "pavani@123"
-        }
-    ]
-}
+{"employees": [{"csrfmiddlewaretoken": "dxoXXJ7IzVfcE2leRKwMPQ9QTdEgmrkhDTh93UdqewdqO5zwxIW9Nwau3eFGM75e", "name": "pavani", "dept": "trainer", "email": "pavani@123"}, {"csrfmiddlewaretoken": "U6CWPsCGkJDm8RwCQX38LC7wbrTJlhkMksv8VDIoZkBAiUKUwVtvJi8alsU9LX5J", "name": "sree", "dept": "software", "email": "srilekhabayyapu313@gmail.com"}]}
